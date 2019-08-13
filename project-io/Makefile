@@ -1,4 +1,4 @@
-#NAME: Shaanan Curtis
+#Project-IO Makefile
 
 labio: main.cpp
 	g++ -g -Wall -Wextra main.cpp -o labio
