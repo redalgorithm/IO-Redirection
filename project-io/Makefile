@@ -1,5 +1,4 @@
 #NAME: Shaanan Curtis
-#EMAIL: shaanancurtis@ieee.org
 
 labio: main.cpp
 	g++ -g -Wall -Wextra main.cpp -o labio
@@ -18,4 +17,3 @@ clean:
 	rm labio
 	rm *.tar.gz
 	rm *.txt
-
