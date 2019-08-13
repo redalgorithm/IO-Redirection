@@ -1,7 +1,7 @@
 #IO-Redirection <br>
-Created by Shaanan Curtis 2019.
+Created by Shaanan Curtis 2019. <br>
 
-DESCRIPTION ------------------------------------------------------------
+DESCRIPTION ------------------------------------------------------------ <br>
 This program tests input/output redirection using the following long options:
 --input for specifying a file as standard input
 --output for creating and using a file as standard output
