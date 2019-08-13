@@ -1,4 +1,5 @@
-Created by Shaanan Curtis 2019.
+Author: Shaanan Curtis
+Date:   July 2019
 
 DESCRIPTION ------------------------------------------------------------
 This program tests input/output redirection using the following long options:
