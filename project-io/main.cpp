@@ -1,4 +1,5 @@
-//Created by SEC
+//IO-Redirection Main Program
+//Description in README.md
 
 #include <fcntl.h>
 #include <unistd.h>
