@@ -1,4 +1,5 @@
 #Project-IO Makefile
+#Description in README.md
 
 labio: main.cpp
 	g++ -g -Wall -Wextra main.cpp -o labio
