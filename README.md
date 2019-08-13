@@ -1,5 +1,6 @@
 #IO-Redirection <br>
-Created by Shaanan Curtis 2019. <br>
+Author:  Shaanan Curtis <br/>
+Date:    July 2019 <br/>
 <br>
 DESCRIPTION ------------------------------------------------------------ <br>
 This program tests input/output redirection using the following long options: <br>
