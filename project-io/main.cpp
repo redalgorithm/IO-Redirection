@@ -1,4 +1,4 @@
-//IO-Redirection Main Program
+//Project-IO Main Program
 //Description in README.md
 
 #include <fcntl.h>
